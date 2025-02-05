@@ -1,4 +1,4 @@
-# Startup Docker project with PHP-FPM unix socket + Xdebug + Nginx + Postgresql ###
+# Startup Docker project with PHP-FPM unix socket + Xdebug + Nginx ###
 
 ### Create .env file in root directory
 <pre>
