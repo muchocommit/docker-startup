@@ -4,7 +4,6 @@
 <pre>
 PROJECT_ROOT=/usr/local/var/www/projects/docker-startup
 PROJECT_DIR=startup
-DOCUMENT_PATH=/usr/local/var/www/projects/docker-startup/startup/public
 </pre>
 
 ### Build images and run containers
